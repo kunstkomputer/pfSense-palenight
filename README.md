@@ -2,7 +2,8 @@
 
 Project is being deprecated as I no longer have time to maintain it. Feel free to make a fork for your own use or redistribution. 
 
-Last updated for pfsense 2.7.0 
+Last updated for pfsense 2.7.0
+
 Later versions of pfsense are not officially support but will likely work fine.
 
 # pfSense Palenight
