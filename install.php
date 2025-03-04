@@ -1,7 +1,7 @@
 <?php
   echo "Intializing theme installation\n";
 
-  $url = 'https://raw.githubusercontent.com/kunstkomputer/pfSense-palenight/main/callmekass-palenight.css';
+  $url = 'https://raw.githubusercontent.com/kunstkomputer/pfSense-palenight/main/kunstkomputer-palenight.css';
 
   $file_name = basename($url);
   $file_path = '/usr/local/www/css/'.$file_name;
